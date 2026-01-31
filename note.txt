@@ -11,7 +11,7 @@ antigravity .
 git init
 git remote add origin https://github.com/6849010008-sumet/basic_python_68_1.git
 
-git config --global user.name"sumet"
+git config --global user.name"6849010008-sumet"
 git config --global user.email"6849010008@phuketvc.ac.th"
 
 git add .txt//1
@@ -19,4 +19,4 @@ git add . //all
 git commit -m "your message"
 git push origin main
 
-dit pull origin main
+git pull origin main
